@@ -43,7 +43,7 @@
       border: 0;
       border-radius: 0;
       margin-bottom: 0;
-      font-size: 12px;
+      font-size: 17px;
       letter-spacing: 5px;
   }
   .navbar-nav  li a:hover {
